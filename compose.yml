@@ -3,7 +3,6 @@ services:
     image: dockurr/windows
     container_name: windows
     environment:
-      MANUAL: "Y"
       VERSION: "11"
     devices:
       - /dev/kvm
