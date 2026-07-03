@@ -2,7 +2,7 @@
   "name": "Windows Shorthorn",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "https://archive.org/download/shorthorn-archive_202201/Shorthorn_4029.iso"
+    "VERSION": "https://archive.org/download/shorthorn-archive_202201/Shorthorn_5219_x64.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
