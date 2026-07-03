@@ -1,8 +1,8 @@
 {
-  "name": "Windows Server 2003",
+  "name": "Windows Shorthorn",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "2003"
+    "VERSION": "https://archive.org/download/shorthorn-archive_202201/Shorthorn_4029.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
