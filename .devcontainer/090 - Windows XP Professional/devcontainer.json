@@ -2,7 +2,7 @@
   "name": "Windows XP Professional",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "https://archive.org/download/LH-XPize-XP-Srv2k3-en-US/LH-XPize%20Slate%20XP%20Pro%20x86%20SP3%20en-US.iso"
+    "VERSION": "xp"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
