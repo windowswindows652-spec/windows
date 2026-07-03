@@ -2,7 +2,7 @@
   "name": "Windows XP Professional",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "xp"
+    "VERSION": "https://archive.org/download/shorthorn-archive_202201/Shorthorn_4033.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
