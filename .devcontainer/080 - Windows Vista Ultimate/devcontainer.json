@@ -2,7 +2,7 @@
   "name": "Windows Vista Ultimate",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "vu"
+    "VERSION": "https://archive.org/download/shorthorn-archive_202201/Shorthorn_5219_x64.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
