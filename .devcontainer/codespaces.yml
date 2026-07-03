@@ -3,7 +3,6 @@ services:
     container_name: windows
     image: ghcr.io/dockur/windows
     environment:
-    MANUAL: "Y"
       RAM_SIZE: "10G"
       DISK_SIZE: "1024G"
       CPU_CORES: "8"
